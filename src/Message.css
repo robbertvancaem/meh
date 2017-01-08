@@ -1,0 +1,58 @@
+.Message {
+    max-width: 960px;
+    margin: 0 auto;
+    border-bottom: 1px solid #eee;
+    padding: 20px 0;
+}
+
+.Message .message-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Message .message-container::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.Message .meta, .Message .message {
+    float: left;
+}
+
+.Message .meta {
+    width: 150px;
+    text-align: center;
+}
+
+.Message .meta .author {
+    font-size: .8em;
+    margin-bottom: 8px;
+    padding-bottom: 4px;
+    display: inline-block;
+    color: #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.Message .meta img {
+    max-width: 100%;
+    border-radius: 150px;
+}
+
+.Message .message {
+    padding: 20px;
+    width: calc(100% - 150px);
+}
+
+.Message .mehs {
+    text-align: center;
+}
+
+.Message .mehs button {
+    background: #dfe3ee;
+    width: 320px;
+    font-weight: bold;
+    height: 60px;
+    line-height: 60px;
+}

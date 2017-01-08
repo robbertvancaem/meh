@@ -1,0 +1,1646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getPromo",
+				"getPromotion"
+			],
+			[
+				"getPromot",
+				"getPromotionStatus"
+			],
+			[
+				"php",
+				"php5.6.10"
+			],
+			[
+				"Platfor",
+				"Platform"
+			],
+			[
+				"Platform",
+				"PlatformService"
+			],
+			[
+				"_hasD",
+				"_hasDetailUser"
+			],
+			[
+				"_has",
+				"_hasDetailUser"
+			],
+			[
+				"has",
+				"hasDetailRound"
+			],
+			[
+				"visl",
+				"visible_blocks"
+			],
+			[
+				"_blocks",
+				"_blocks_model"
+			],
+			[
+				"Active",
+				"ActiveContentService"
+			],
+			[
+				"preview",
+				"previewIsLoading"
+			],
+			[
+				"ActiveConte",
+				"ActiveContentService"
+			],
+			[
+				"_handle",
+				"_handlePostRequest"
+			],
+			[
+				"_app_",
+				"_app_data"
+			],
+			[
+				"_is",
+				"_is_request"
+			],
+			[
+				"fun_g",
+				"func_get_args"
+			],
+			[
+				"_app",
+				"_appblock_id"
+			],
+			[
+				"current",
+				"current_id"
+			],
+			[
+				"visib",
+				"visible_blocks"
+			],
+			[
+				"update",
+				"updatePreview"
+			],
+			[
+				"htmlspecia",
+				"htmlspecialchars_decode"
+			],
+			[
+				"isAni",
+				"isAnimatedGif"
+			],
+			[
+				"Onboardi",
+				"OnboardingService"
+			],
+			[
+				"init",
+				"initOnboarding"
+			],
+			[
+				"primary",
+				"primary_owner"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"CONT",
+				"ConstantsService"
+			],
+			[
+				"Current",
+				"CurrentDatabase"
+			],
+			[
+				"remove",
+				"remove_anon"
+			],
+			[
+				"Con",
+				"ConstantsServiceProvider"
+			],
+			[
+				"inclue",
+				"includeAnonymous"
+			],
+			[
+				"include",
+				"include_anonymous"
+			],
+			[
+				"deco",
+				"decodeBase64"
+			],
+			[
+				"curl_setopt",
+				"curl_setopt_array"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"pre",
+				"premodel"
+			],
+			[
+				"ng",
+				"ng_escape_vars"
+			],
+			[
+				"json",
+				"jsonArray"
+			],
+			[
+				"go",
+				"gotoLogin"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"double",
+				"doubleoptin_data"
+			],
+			[
+				"findby",
+				"findByIdAndUpdate	method"
+			],
+			[
+				"partci",
+				"participations"
+			],
+			[
+				"partici",
+				"participations_index"
+			],
+			[
+				"qu",
+				"queuing_save"
+			],
+			[
+				"connection",
+				"connection_id"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"contain",
+				"containment_height"
+			],
+			[
+				"Github",
+				"GithubSvc"
+			],
+			[
+				"isMenu",
+				"isMenuInIframeOpen"
+			],
+			[
+				"col",
+				"col-primary"
+			],
+			[
+				"deactivate",
+				"deactivate_message"
+			],
+			[
+				"ns",
+				"nsDeactivateAccount"
+			],
+			[
+				"frm",
+				"frmDeactivateAccount"
+			],
+			[
+				"color-",
+				"color-accent"
+			],
+			[
+				"index",
+				"index_to_start"
+			],
+			[
+				"earlier",
+				"earlier_year"
+			],
+			[
+				"available",
+				"available_blocks"
+			],
+			[
+				"cache_key",
+				"cache_key_ticks"
+			],
+			[
+				"numer",
+				"number_of_weeks"
+			],
+			[
+				"current_",
+				"current_week"
+			],
+			[
+				"diff",
+				"diff_weeks"
+			],
+			[
+				"last",
+				"last_day_of_year"
+			],
+			[
+				"week",
+				"week_year_ago"
+			],
+			[
+				"time",
+				"time_year_ago"
+			],
+			[
+				"number",
+				"number_of_weeks"
+			],
+			[
+				"language",
+				"language_registrations_qry"
+			],
+			[
+				"block",
+				"block_id"
+			],
+			[
+				"or",
+				"origin"
+			],
+			[
+				"remote_",
+				"remote_leaderboard_string"
+			],
+			[
+				"owned",
+				"owned_leaderboard_string"
+			],
+			[
+				"logged",
+				"loggedin_user_id"
+			],
+			[
+				"remote",
+				"remote_leaderboards_count"
+			],
+			[
+				"owned_l",
+				"owned_leaderboards_count"
+			],
+			[
+				"leaderboar",
+				"leaderboard_round"
+			],
+			[
+				"leaderboard",
+				"leaderboard_uid"
+			],
+			[
+				"detail",
+				"detail_round_id"
+			],
+			[
+				"google",
+				"google_tag_manager_id"
+			],
+			[
+				"allowed_",
+				"allowed_languages_string"
+			],
+			[
+				"iFrame",
+				"iFrameResize"
+			],
+			[
+				"data",
+				"dataFooterUrl"
+			],
+			[
+				"capteu",
+				"captureStart"
+			],
+			[
+				"connec",
+				"connection_id"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 333.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascriptnext",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpretti",
+				"HTMLPrettify"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify"
+			],
+			[
+				"htmlprett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"set syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"format code",
+				"Format Code"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlprettif",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set syntax javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"set syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diffy",
+				"Diffy Compare"
+			],
+			[
+				"set syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax",
+				"Set Syntax: SCSS"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"theme",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"color ",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"color",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"SET SYNTAX JAVASC",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmlpret",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set syntax",
+				"Set Syntax: SVG"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"colorco",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"set syntax javscript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"beautif",
+				"SassBeautify"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"set syntax cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmlprte",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"html pr",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"sassb",
+				"SassBeautify"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control list",
+				"Package Control: List Packages"
+			],
+			[
+				"packagae",
+				"Package Control: List Packages"
+			],
+			[
+				"compass",
+				"Build With: Compass"
+			],
+			[
+				"set syntax scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robbertvancaem/Development/meh/src/index.css",
+		"/Users/robbertvancaem/Development/meh/src/Message.css",
+		"/Users/robbertvancaem/Development/meh/src/Message.js",
+		"/Users/robbertvancaem/Development/meh/src/App.css",
+		"/Users/robbertvancaem/Development/meh/src/App.js",
+		"/Users/robbertvancaem/Development/meh/src/index.js",
+		"/Users/robbertvancaem/Development/meh/src/Message.test.js",
+		"/Users/robbertvancaem/Development/meh/package.json",
+		"/Users/robbertvancaem/Development/meh/meh/package.json",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/_styles/_content.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/core.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/detail/styles/_promotions.detail.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/detail/views/promotions.detail.html",
+		"/Users/robbertvancaem/Desktop/date.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/views/scripts/v2/a/v3_scratchcard.phtml",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/error/error.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/campaigns/campaigns-controller.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/campaigns/campaigns-service.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/tpl.dialog.promotions.transfer.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/APIService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/ConstantsService.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/blocks/blocks.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/campaigns/campaigns.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/README.md",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/overview/promotions.overview.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/models/CopyActivation.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/dialog.promotion.transfer.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/_dialog.promotion.transfer.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/AsyncService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/_views/core.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/forms/CopyActivation.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/bower.json",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/app.module.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/utils/utils.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/package.json",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/AWSService.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/blocks/blocks-service.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/blocks/blocks-controller.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/campaigns/_tests.js/campaigns.unit.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/components/components-service.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/controllers/PromotionsController.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/models/Application.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/library/FRTRSS/Controller/V2Engine.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/models/v5/ApplicationBlocks.php",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/campaigns/campaigns-model.js",
+		"/Users/robbertvancaem/FRTRSS/brandbox-legacy/core/api/api.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/DialogService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/AuthService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/models/Application.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/ActiveContentService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/detail/promotions.detail.api.service.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/sass/main.scss",
+		"/Applications/MAMP/bin/phpMyAdmin/config.inc.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/_styles/_nav.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/_styles/_core.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/core.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/controllers/AccountController.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/knowledgebase/KnowledgeBase.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/api/Api.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/company/Company.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/media/Media.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/_styles/_material.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/js/gdl/gld-script.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/sass/_mixins.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/sass/_variables.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/contact/Contact.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/marketplace/Marketplace.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/bower_components/font-awesome/scss/_core.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/overview/views/promotions.overview.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/library/FRTRSS/Controller/Plugin/Acl.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/tpl.dialog.network.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/tpl.dialog.webhooks.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/detail/promotions.detail.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/detail/promotions.detail.service.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/dialog.schedule.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/tpl.dialog.schedule.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/UtilsService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/views/scripts/v2/a/v3_memory.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/configs/db.ini",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/gulpfile.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/_dialog.network.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/tpl.dialog.embed.html",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/_dialog.embed.scss",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/promotions.service.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/dialog.embed.controller.js",
+		"/Users/robbertvancaem/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/robbertvancaem/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/IFrameService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/js/angular/app.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/js/angular/app/services/EnvironmentService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/js/admin/editor.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/core/core.service.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/views/helpers/UserDbCard.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/layouts/scripts/admin/default.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/.htaccess",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/js/libs/ace/src/snippets/gitignore.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/configs/router.ini",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/.gitignore",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/promotions/default/promotions.default.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/helpers/V2aSidebar.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/views/scripts/v2/a/gdl_object.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/shell/sprint55/375-meta-gld-object.sql",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/Bootstrap.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/views/scripts/v2/a/v4_image.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/layouts/scripts/vriendenloterij/layout_app32.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/js/libs/js-webshim/dev/polyfiller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/views/scripts/v2/a/live_text.phtml",
+		"/private/var/folders/kw/zg0lbbsj56n8gdd33gx95h5r0000gn/T/fz3temp-1/db.ini",
+		"/private/var/folders/kw/zg0lbbsj56n8gdd33gx95h5r0000gn/T/fz3temp-1/db 2.ini",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/layouts/scripts/widget/layout_app543.phtml",
+		"/private/var/folders/kw/zg0lbbsj56n8gdd33gx95h5r0000gn/T/fz3temp-1/layout_app32.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/library/Mandrill/Class/Whitelists.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/mybrand/team/mybrand.team.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/shared/services/ToastService.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/dialog.network.controller.js",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/models/PlatformSettings.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/forms/Account.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/views/scripts/error/noauth.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/views/scripts/error/noauth.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/public_html/css/metro_king/style.css",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/controllers/ErrorController.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/layouts/scripts/admin/login.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/views/scripts/partials/menu.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/controllers/IndexController.php",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/views/scripts/view_helpers/user_db_card.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/views/scripts/index/index.phtml",
+		"/Users/robbertvancaem/FRTRSS/Brandbox/source/app/components/views/dialog/tpl.dialog.email.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/robbertvancaem/FRTRSS/Brandbox/,-/Users/robbertvancaem/FRTRSS/Brandbox/vendor/*,-/Users/robbertvancaem/FRTRSS/Brandbox/bower_components/*,-/Users/robbertvancaem/FRTRSS/Brandbox/node_modules",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/,-/Users/robbertvancaem/FRTRSS/Brandbox/vendor/*,-/Users/robbertvancaem/FRTRSS/Brandbox/bower_components/*",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/,-/Users/robbertvancaem/FRTRSS/Brandbox/vendor/*",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/,-/Users/robbertvancaem/FRTRSS/Brandbox/vendor/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/FRTRSS/Brandbox,-*.css,-*.sql,",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source/,*.html",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source/*/*.html",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source/*.html",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/BrandBox",
+			"/Users/robbertvancaem/Development/loudnoise.nl/wp-content/themes/loudnoise",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/Development/loudnoise.nl",
+			"/Users/robbertvancaem/frtrss/BrandBox",
+			"/Users/robbertvancaem/BrandBox",
+			"/Users/robbertvancaem/Development/loudnoise.nl",
+			"/Users/robbertvancaem/Development/loudnoise",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/Development/loudnoise.nl",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/Development/loudnoise.nl",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/Desktop/Wordpress Theme/opus",
+			"/Users/robbertvancaem/Desktop/Layouts",
+			"/Users/robbertvancaem/Development/loudnoise.nl/wp-content/themes/loudnoise",
+			"/Users/robbertvancaem/FRTRSS/BrandBox/source",
+			"/Users/robbertvancaem/FRTRSS/BrandBox/",
+			"/Users/robbertvancaem/FRTRSS/BrandBox/source",
+			"/Users/robbertvancaem/FRTRSS/BrandBox/",
+			"/Users/robbertvancaem/FRTRSS/BrandBox/source",
+			"/Users/robbertvancaem/FRTRSS/BrandBox",
+			"/Users/robbertvancaem/Desktop/Goldfish Layouts/scripts",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/Development/flickfeeder/core",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"",
+			"/Users/robbertvancaem/Desktop/Backup/application/layouts",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/DEVelopment/flickfeeder",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin/controllers",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/Desktop/Livezetten Sprint/GA",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/admin",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/helpers",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/models",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/modules/admin",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/source",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/modules/widget/views",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/",
+			"/Users/robbertvancaem/FRTRSS/Brandbox/application/models/v5",
+			"/Users/robbertvancaem/FRTRSS/Brandbox",
+			"/Users/robbertvancaem/Dropbox/FRTRSS/Git/Brandbox"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"movePanels",
+			"padding-top: 2px",
+			"content",
+			"BLOCKS_NOT",
+			"saveslug",
+			"all set",
+			"all setg",
+			"$scope.selectedPromotions",
+			"delete",
+			"save",
+			"saveslug",
+			"check",
+			"getpromotion(",
+			"getpromotion",
+			"saveslug",
+			"aws",
+			"saveslug",
+			"join",
+			"no database",
+			"console.log",
+			"getblockbyid",
+			"queryblockbyid",
+			"getblockbyid",
+			"copy",
+			"foreach",
+			"result[i]",
+			"foreach",
+			"page",
+			"getpages",
+			"function getblocks",
+			"model",
+			"queryBlockById",
+			"querybyid",
+			"query",
+			"createslug",
+			"update",
+			"editaction",
+			"saveslug",
+			"deletepage",
+			"delete",
+			"saveslug",
+			"slug",
+			"editaction",
+			"slug",
+			"addapi",
+			"add",
+			"getpromotion",
+			"slug",
+			"getpromotionlink",
+			"saveslug",
+			"///",
+			"slug",
+			"dialogservice",
+			"message",
+			"createslug",
+			"getUniqueSlug",
+			"slug",
+			"editaction",
+			"campaign",
+			"copyapplication",
+			"copytodb",
+			"copyaction",
+			"+ ",
+			"state",
+			"mode",
+			"<<",
+			"<<<",
+			"onfilter",
+			"select",
+			"draft",
+			"ineditormode",
+			"editor",
+			"state",
+			"promotion-name",
+			"label",
+			"promotions",
+			"hamburger",
+			"png",
+			"svg",
+			"main-menu-items",
+			"main-menu",
+			"right main",
+			"promotions-overview",
+			"flyout-custom-profile",
+			"letter",
+			"user-profile-btn",
+			"user",
+			"profile-top",
+			"content",
+			"sub-main-menu",
+			"core-contact-btn",
+			"save =",
+			"$scope.promotion",
+			"page",
+			"save =",
+			"save",
+			"$scope.promotion.viewports",
+			"schedule",
+			"savescheduli",
+			"saveschedule",
+			"getpromotionstatus",
+			"getpromotion",
+			"enabledate",
+			"this.save",
+			"user",
+			"change",
+			"detail",
+			"webhook",
+			"$invalid",
+			"body cannot",
+			"clear",
+			"angular.copy",
+			"console.log",
+			"getuser",
+			"form",
+			"isauthvalid",
+			"savewebhook",
+			"editaction",
+			"clear",
+			"base64",
+			"base",
+			"webhook",
+			"savewebhook",
+			"$scope.webhook",
+			"addwebhook",
+			"addewbhook",
+			"$scope.webhooks",
+			"webhook"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.initPublish()",
+			"self.save()",
+			"https://www.schiphol.nl/nl/parkeren/parkeren-op-schiphol/?utm_source=Schipholactiepagina&utm_medium=Referral&utm_campaign=happyholidays&utm_content=button_krasjekorting",
+			",\n",
+			"",
+			"    ",
+			"   ",
+			"",
+			",",
+			"self.edit(",
+			" ",
+			"",
+			"\\\"",
+			"$this->redirect",
+			"//$this->redirect",
+			"URI",
+			"window.top.postMessage",
+			"campaign",
+			"app.campaigns",
+			"CampaignsDetailService",
+			"https://blog.brandbox.io",
+			"<body ng-app=\"BrandBox\" ng-controller=\"BBCtrl as BB\" ng-init=\"BB.init('<?php echo isset($_GET['mode']) ? $_GET['mode'] : ''?>')\">",
+			"<body ng-app=\"BrandBox\" ng-controller=\"BBCtrl as BB\" ng-init=\"BB.init('<?php echo $_GET['mode']?>')\">",
+			"\"",
+			"<body ng-app=\"BrandBox\"",
+			"<script>\n	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n	  ga('create', 'UA-58100665-1', 'auto', {'name': 'brandboxTracker'});\n	  ga('brandboxTracker.send', 'pageview', '/<?php echo $this->platform; ?>/<?php echo $this->app_name;?>/page/<?php echo $this->page;?>');\n\n      <?php if (isset($this->google_tracking_id) && $this->google_tracking_id != '') { ?>\n      ga('create', '<?php echo $this->google_tracking_id;?>', 'auto');\n      ga('send', 'pageview', '/<?php echo $this->app_name;?>/page/<?php echo $this->page;?>');\n      <?php } ?>\n	</script>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 245.0
+	},
+	"pinned_build_system": "Packages/User/chrome.sublime-build",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scratchcard.phtml",
+				"Brandbox/application/modules/widget/views/scripts/v2/a/v3_scratchcard.phtml"
+			],
+			[
+				"content.scss",
+				"Brandbox/source/app/components/core/_styles/_content.scss"
+			],
+			[
+				"core.js",
+				"Brandbox/source/app/components/core/core.js"
+			],
+			[
+				"promotions.detail.contro",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"promotions.detail.th",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"promotions.detail.scss",
+				"Brandbox/source/app/components/promotions/detail/styles/_promotions.detail.scss"
+			],
+			[
+				"tranfser.html",
+				"Brandbox/source/app/components/views/dialog/tpl.dialog.promotions.transfer.html"
+			],
+			[
+				"constantsservice",
+				"Brandbox/source/app/shared/services/ConstantsService.js"
+			],
+			[
+				"promotions.detailcontro",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"apiservice",
+				"Brandbox/source/app/shared/services/APIService.js"
+			],
+			[
+				"promotions.detail.html",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"promotionsoverviewcontro",
+				"Brandbox/source/app/components/promotions/overview/promotions.overview.controller.js"
+			],
+			[
+				"promotionsdetailcontr",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"copyacti",
+				"Brandbox/application/modules/admin/models/CopyActivation.php"
+			],
+			[
+				"copyapp",
+				"Brandbox/application/modules/admin/forms/CopyActivation.php"
+			],
+			[
+				"core.html",
+				"Brandbox/source/app/components/core/_views/core.html"
+			],
+			[
+				"asyncservice",
+				"Brandbox/source/app/shared/services/AsyncService.js"
+			],
+			[
+				"bower.json",
+				"Brandbox/bower.json"
+			],
+			[
+				"promotion.transfer",
+				"Brandbox/source/app/components/views/dialog/dialog.promotion.transfer.controller.js"
+			],
+			[
+				"dialog.transfer.scss",
+				"Brandbox/source/app/components/views/dialog/_dialog.promotion.transfer.scss"
+			],
+			[
+				"app.modlue",
+				"Brandbox/source/app/app.module.js"
+			],
+			[
+				"dialogtransfercontr",
+				"Brandbox/source/app/components/views/dialog/dialog.promotion.transfer.controller.js"
+			],
+			[
+				"app.",
+				"Brandbox/source/app/app.module.js"
+			],
+			[
+				"bower",
+				"Brandbox/bower.json"
+			],
+			[
+				"packa",
+				"Brandbox/package.json"
+			],
+			[
+				"awsservice",
+				"Brandbox/source/app/shared/services/AWSService.js"
+			],
+			[
+				"transfer.html",
+				"Brandbox/source/app/components/views/dialog/tpl.dialog.promotions.transfer.html"
+			],
+			[
+				"dialogtransfer",
+				"Brandbox/source/app/components/views/dialog/dialog.promotion.transfer.controller.js"
+			],
+			[
+				"utils",
+				"brandbox-legacy/core/utils/utils.js"
+			],
+			[
+				"campaigns-service",
+				"brandbox-legacy/core/api/campaigns/campaigns-service.js"
+			],
+			[
+				"blocksservice",
+				"brandbox-legacy/core/api/blocks/blocks-service.js"
+			],
+			[
+				"blocks.js",
+				"brandbox-legacy/core/api/blocks/blocks.js"
+			],
+			[
+				"campaigns.js",
+				"brandbox-legacy/core/api/campaigns/campaigns.js"
+			],
+			[
+				"blocks-controller",
+				"brandbox-legacy/core/api/blocks/blocks-controller.js"
+			],
+			[
+				"blocksconroller",
+				"brandbox-legacy/core/api/blocks/blocks-controller.js"
+			],
+			[
+				"blocks-controller.js",
+				"brandbox-legacy/core/api/blocks/blocks-controller.js"
+			],
+			[
+				"blocksser",
+				"brandbox-legacy/core/api/blocks/blocks-service.js"
+			],
+			[
+				"adin/model/applicat",
+				"Brandbox/application/modules/admin/models/Application.php"
+			],
+			[
+				"promotionscontro",
+				"Brandbox/application/modules/admin/controllers/PromotionsController.php"
+			],
+			[
+				"v5/blocks.",
+				"Brandbox/application/models/v5/ApplicationBlocks.php"
+			],
+			[
+				"v2engine",
+				"Brandbox/library/FRTRSS/Controller/V2Engine.php"
+			],
+			[
+				"admin/model/application",
+				"Brandbox/application/modules/admin/models/Application.php"
+			],
+			[
+				"dialogservice",
+				"Brandbox/source/app/shared/services/DialogService.js"
+			],
+			[
+				"promotionscontroller",
+				"Brandbox/application/modules/admin/controllers/PromotionsController.php"
+			],
+			[
+				"model/application",
+				"Brandbox/application/models/Application.php"
+			],
+			[
+				"promtions.detail.contro",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"promotion.detail.contro",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"admin/model/applicatoin",
+				"Brandbox/application/modules/admin/models/Application.php"
+			],
+			[
+				"nav.scss",
+				"Brandbox/source/app/components/core/_styles/_nav.scss"
+			],
+			[
+				"admin/model/copyactio",
+				"Brandbox/application/modules/admin/models/CopyActivation.php"
+			],
+			[
+				"core.scss",
+				"Brandbox/source/app/components/core/_styles/_core.scss"
+			],
+			[
+				"corecontroller",
+				"Brandbox/source/app/components/core/core.controller.js"
+			],
+			[
+				"app.js",
+				"Brandbox/source/app/app.module.js"
+			],
+			[
+				"promotions.overviewcontro",
+				"Brandbox/source/app/components/promotions/overview/promotions.overview.controller.js"
+			],
+			[
+				"core.controller",
+				"Brandbox/source/app/components/core/core.controller.js"
+			],
+			[
+				"accountcontroll",
+				"Brandbox/application/modules/admin/controllers/AccountController.php"
+			],
+			[
+				"media.js",
+				"Brandbox/source/app/components/media/Media.js"
+			],
+			[
+				"company",
+				"Brandbox/source/app/components/company/Company.js"
+			],
+			[
+				"api.js",
+				"Brandbox/source/app/components/api/Api.js"
+			],
+			[
+				"knowledge",
+				"Brandbox/source/app/components/knowledgebase/KnowledgeBase.js"
+			],
+			[
+				"glscrip",
+				"Brandbox/public_html/js/gdl/gld-script.js"
+			],
+			[
+				"nav.scs",
+				"Brandbox/source/app/components/core/_styles/_nav.scss"
+			],
+			[
+				"marketplace.js",
+				"Brandbox/source/app/components/marketplace/Marketplace.js"
+			],
+			[
+				"contact.js",
+				"Brandbox/source/app/components/contact/Contact.js"
+			],
+			[
+				"material.scss",
+				"Brandbox/source/app/components/core/_styles/_material.scss"
+			],
+			[
+				"mixins.scss",
+				"Brandbox/source/sass/_mixins.scss"
+			],
+			[
+				"variables.scss",
+				"Brandbox/source/sass/_variables.scss"
+			],
+			[
+				"promotions.detail.controller",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"promtoions.detail.html",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"promoitonscontroller",
+				"Brandbox/application/modules/admin/controllers/PromotionsController.php"
+			],
+			[
+				"promotions.detail.contr",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"promotions.overview.html",
+				"Brandbox/source/app/components/promotions/overview/views/promotions.overview.html"
+			],
+			[
+				"promotions.overview.contro",
+				"Brandbox/source/app/components/promotions/overview/promotions.overview.controller.js"
+			],
+			[
+				"acl.php",
+				"Brandbox/library/FRTRSS/Controller/Plugin/Acl.php"
+			],
+			[
+				"dialog.network.html",
+				"Brandbox/source/app/components/views/dialog/tpl.dialog.network.html"
+			],
+			[
+				"prootions.overviewc",
+				"Brandbox/source/app/components/promotions/overview/promotions.overview.controller.js"
+			],
+			[
+				"promotions.detailhtml",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"tpl.webhook",
+				"Brandbox/source/app/components/views/dialog/tpl.dialog.webhooks.html"
+			],
+			[
+				"promotion.detail.js",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.js"
+			],
+			[
+				"promotionsdetailhtml",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"model/promotion",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.js"
+			],
+			[
+				"core.contro",
+				"Brandbox/source/app/components/core/core.controller.js"
+			],
+			[
+				"promotiondetailservice",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.service.js"
+			],
+			[
+				"promotions.detail.js",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.js"
+			],
+			[
+				"dialog.sceh",
+				"Brandbox/source/app/components/views/dialog/tpl.dialog.schedule.html"
+			],
+			[
+				"dialog.schedule",
+				"Brandbox/source/app/components/views/dialog/dialog.schedule.controller.js"
+			],
+			[
+				"bower.jsno",
+				"Brandbox/bower.json"
+			],
+			[
+				"app.module.js",
+				"Brandbox/source/app/app.module.js"
+			],
+			[
+				"utilsservice",
+				"Brandbox/source/app/shared/services/UtilsService.js"
+			],
+			[
+				"material.",
+				"Brandbox/source/app/components/core/_styles/_material.scss"
+			],
+			[
+				"package.json",
+				"Brandbox/package.json"
+			],
+			[
+				"memory.phtml",
+				"Brandbox/application/modules/widget/views/scripts/v2/a/v3_memory.phtml"
+			],
+			[
+				"model/appli",
+				"Brandbox/application/models/Application.php"
+			],
+			[
+				"utilsser",
+				"Brandbox/source/app/shared/services/UtilsService.js"
+			],
+			[
+				"promotion.detail.html",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"db.ini",
+				"Brandbox/application/configs/db.ini"
+			],
+			[
+				"promotionsdetailcontro",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"accountcontr",
+				"Brandbox/application/modules/admin/controllers/AccountController.php"
+			],
+			[
+				"gulpfile",
+				"Brandbox/gulpfile.js"
+			],
+			[
+				"dialog.network",
+				"Brandbox/source/app/components/views/dialog/_dialog.network.scss"
+			],
+			[
+				"promoitonsoverview",
+				"Brandbox/source/app/components/promotions/overview/promotions.overview.controller.js"
+			],
+			[
+				"admin/promotionscontrol",
+				"Brandbox/application/modules/admin/controllers/PromotionsController.php"
+			],
+			[
+				"promotionservice",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.service.js"
+			],
+			[
+				"promotionsdetailservice",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.service.js"
+			],
+			[
+				"promotion.detail.controller",
+				"Brandbox/source/app/components/promotions/detail/promotions.detail.controller.js"
+			],
+			[
+				"iframservice",
+				"Brandbox/source/app/shared/services/IFrameService.js"
+			],
+			[
+				"coreservice",
+				"Brandbox/source/app/components/core/core.service.js"
+			],
+			[
+				"environmentservice",
+				"Brandbox/public_html/js/angular/app/services/EnvironmentService.js"
+			],
+			[
+				"editor.js",
+				"Brandbox/public_html/js/admin/editor.js"
+			],
+			[
+				"admin/default.phtml",
+				"Brandbox/application/layouts/scripts/admin/default.phtml"
+			],
+			[
+				"userdbcard",
+				"Brandbox/application/modules/admin/views/helpers/UserDbCard.php"
+			],
+			[
+				"htaccess",
+				"Brandbox/public_html/.htaccess"
+			],
+			[
+				"router.in",
+				"Brandbox/application/configs/router.ini"
+			],
+			[
+				"gitignore",
+				"Brandbox/.gitignore"
+			],
+			[
+				"promotionmode",
+				"Brandbox/source/app/components/promotions/default/promotions.default.js"
+			],
+			[
+				"accountcontro",
+				"Brandbox/application/modules/admin/controllers/AccountController.php"
+			],
+			[
+				"promotions.deatil.html",
+				"Brandbox/source/app/components/promotions/detail/views/promotions.detail.html"
+			],
+			[
+				"constantservice",
+				"Brandbox/source/app/shared/services/ConstantsService.js"
+			],
+			[
+				"gdl-script",
+				"Brandbox/public_html/js/gdl/gld-script.js"
+			],
+			[
+				"polyfiller",
+				"Brandbox/public_html/js/libs/js-webshim/dev/polyfiller.js"
+			],
+			[
+				"image.phtml",
+				"Brandbox/application/modules/widget/views/scripts/v2/a/v4_image.phtml"
+			],
+			[
+				"text.phtml",
+				"Brandbox/application/modules/widget/views/scripts/v2/a/live_text.phtml"
+			],
+			[
+				"bootstrap",
+				"Brandbox/application/Bootstrap.php"
+			],
+			[
+				"gdlscript.",
+				"Brandbox/public_html/js/gdl/gld-script.js"
+			],
+			[
+				"layout543.",
+				"Brandbox/application/layouts/scripts/widget/layout_app543.phtml"
+			],
+			[
+				"gdl.phtml",
+				"Brandbox/application/modules/widget/views/scripts/v2/a/gdl_object.phtml"
+			],
+			[
+				"gdl.sql",
+				"Brandbox/shell/sprint55/375-meta-gld-object.sql"
+			],
+			[
+				"whitelist.php",
+				"Brandbox/library/Mandrill/Class/Whitelists.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
