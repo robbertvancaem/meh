@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import Message from './Message';
 import './App.css';
+import Feed from './Feed';
 
 class App extends Component {
   render() {
@@ -10,8 +9,7 @@ class App extends Component {
         <div className="App-header">  
           <h2>meh</h2>
         </div>
-        <Message author="Barbara Streisand" title="Starbucks" message="I went to Starbucks and it was A. Ma. Zing."/>
-        <Message author="Barbara Streisand" title="Starbucks" message="I went to Starbucks and it was A. Ma. Zing."/>
+        <Feed /> 
       </div>
     );
   }
