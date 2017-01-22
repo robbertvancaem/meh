@@ -1,0 +1,49 @@
+.MehForm {
+    background-color: #81d8ae;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    padding: 20px 20px 6px;
+
+    h2 {
+        text-align: center;
+        font-weight: normal;
+        color: #fff;
+        margin-bottom: 10px;
+    }
+
+    form{
+        margin: 0 auto;
+        max-width: 480px;
+        width: 100%;
+    }
+
+    input {
+        line-height: 32px;
+        font-size: 1em;
+        width: 100%;
+        margin: 5px 0;
+        padding: 0  6px;
+        text-align: left;
+        box-sizing: border-box;
+        border: 0;
+        border-radius: 3px;
+        outline: 0;
+    }
+
+    button {
+        background: transparent;
+        display: block;
+        margin: 10px auto;
+        border: 2px solid #fff;
+        cursor: pointer;
+        outline: none;
+        padding: 6px 20px;
+        color: #fff;
+        font-size: 1.2em;
+        transition: all .2s ease;
+        &:hover{
+            opacity: .7;
+        }
+    }
+}
