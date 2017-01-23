@@ -9,4 +9,5 @@ module.exports = (
       <IndexRoute component={Dashboard}/>
       <Route path="/feed" component={Feed} />
     </Route>
+
 )

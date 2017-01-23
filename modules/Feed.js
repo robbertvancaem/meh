@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import './Feed.scss'
 import './MehForm.scss'
 import Message from './Message'
@@ -15,10 +15,7 @@ import background from './media/background.jpg'
 
 class Feed extends Component {
 	constructor(){
-
 		super();
-		var self = this;
-
 		this.state = {
 			messages: [
 				{
@@ -73,6 +70,7 @@ class Feed extends Component {
 	        	}
 			]
 		}
+		this.handleSubmit = this.handleSubmit.bind(this)
 	}
 	handleSubmit(event){
 		event.preventDefault();
@@ -87,23 +85,18 @@ class Feed extends Component {
 			"mehs": 20
 		}
 
-		// Copy state messages to new array
-		var messages = self.state.messages.slice()
-
-		// Add new message to array
-		messages.push(obj)
-
-		// Push to initial state
-		self.setState({messages: messages})
+		this.setState({ messages: this.state.messages.concat([obj])})
 
 	}
 	render(){
-		const divStyle = {
+		var divStyle = {
             backgroundImage: 'url(' + background + ')'
         }
+
 		return(
 			<div className="Feed">
 				<div className="MehForm" style={divStyle}>
+					{/*
 					<h2>What do you want to share with your friends?</h2>
 					<form onSubmit={this.handleSubmit}>
 						<input type="text" placeholder="Your name" title="Please fill in your name" required/>
@@ -111,18 +104,16 @@ class Feed extends Component {
 						<input type="text" placeholder="Your meh message" title="Please fill in the actual meh" />
 						<button type="submit">Share</button>
 					</form>
+					*/}
+					<h2>Have a look at today's meh statuses</h2>
+					<h3>What do you think?</h3>
 				</div>
 				<div className="feed-wrapper">
-	        		{
-	        			this.state.messages.map(function(message){
-	        				return <Message key={message.key} author={message.author} title={message.title} image={message.image} message={message.message}  mehs={message.mehs}/>
-	        			})
-	        		}
+	        		{this.state.messages.map(message => <Message key={message.key} author={message.author} title={message.title} image={message.image} message={message.message} mehs={message.mehs}/>)}
 				</div>
 			</div>
 		)
 	}
-
 }
 
-export default Feed;
+export default Feed

@@ -1,14 +1,8 @@
-import React, { Component } from 'react';
-import './Message.css';
-import Comment from './Comment';
+import React, { Component } from 'react'
+import './Message.scss'
+import CommentBox from './Comments'
 
-class Message extends Component {
-	constructor(){
-		super();
-		this.state = {
-
-		};
-	}
+class Message extends Component{
 	render(){
 		return(
 			<div className="Message">
@@ -20,21 +14,22 @@ class Message extends Component {
 					<div className="message">
 						<div className="message-header">
 							<h2>{this.props.title}</h2>
-							<h2 className="meh">-{this.props.mehs}</h2>
+							<div className="mehs-container">
+								<h2>-{this.props.mehs}</h2>
+								<div className="mehs">
+									<button onClick={() => this.setState({mehs: this.state.mehs + 1})}>
+										Meh
+									</button>
+									<button onClick={() => this.setState({mehs: this.state.mehs + 10})}>
+										Super-Meh
+									</button>
+								</div>
+							</div>
 						</div>
 						<p>{this.props.message}</p>
-						<div className="mehs">
-							<button onClick={() => this.setState({mehs: this.state.mehs + 1})}>
-								Meh
-							</button>
-							<button onClick={() => this.setState({mehs: this.state.mehs + 10})}>
-								Super-Meh
-							</button>
-						</div>
-						<Comment />
+						<CommentBox url="http://localhost:3000/api/comments" pollInterval={20000}/>
 					</div>
 				</div>
-
 			</div>
 		)
 	};
