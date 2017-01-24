@@ -3,12 +3,38 @@
         "key": 0,
         "author":"Douch Ebag",
         "title" : "My new ride",
-        "message" : "Yo, check out my new fresh #ride #burstinflames #10000milesperhourinasecond"
+        "message" : "Yo, check out my new fresh #ride #burstinflames #10000milesperhourinasecond",
+        "comments": [
+            {
+                "id": 1,
+                "author": "Robbert van Caem",
+                "email": "robbertvancaem@gmail.com",
+                "gender": "male",
+                "message": "That's pretty douchy man"
+            },
+            {
+                "id": 2,
+                "author": "Robbert van Caem",
+                "email": "robbertvancaem@gmail.com",
+                "gender": "male",
+                "message": "Word yo"
+            }
+        ]
     },{
         "key": 1,
         "author":"CoffeeFanatic32",
         "title" : "Starbucks",
-        "message" : "I went to Starbucks, got a #latte #machiato and it was A. Ma. Zing."
+        "message" : "I went to Starbucks, got a #latte #machiato and it was A. Ma. Zing.",
+        "comments" : [
+            {
+                "id": 3,
+                "author": "Stephanie",
+                "email": "stephaniecraycray@gmail.com",
+                "gender": "female",
+                "message": "OMG I went there the other day and it was like super cray cray. Love u gurl"
+
+            }
+        ]
     },{
         "key": 2,
         "author":"Raphael8310",
@@ -33,6 +59,14 @@
         "key": 6,
         "author":"Fashionista879",
         "title" : "Look mom",
-        "message" : "I'm doing the No Pants Dance! Yay!"
+        "message" : "I'm doing the No Pants Dance! Yay!",
+        "comments" : [
+            {
+                "id": 4,
+                "author": "Mom",
+                "email": "mom@gmail.com",
+                "message": "Melissa we need to talk. CALL ME."
+            }
+        ]
     }
 ]

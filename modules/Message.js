@@ -8,29 +8,29 @@ var Message = React.createClass({
 	},
 	render(){
 		return(
-			<div className="Message">
+			<div className="message-component">
 				<div className="message-container">
-					<div className="meta">
+					<div className="message-meta">
 						<span className="author">{this.props.author}</span>
 						<img src={this.props.image} alt="meh" />
-					</div>
-					<div className="message">
-						<div className="message-header">
-							<h2>{this.props.title}</h2>
-							<div className="mehs-container">
-								<h2>-{this.state.mehs}</h2>
-								<div className="mehs">
-									<button onClick={() => this.setState({mehs: this.state.mehs + 1})}>
-										Meh
-									</button>
-									<button onClick={() => this.setState({mehs: this.state.mehs + 10})}>
-										Super-Meh
-									</button>
-								</div>
+						<div className="mehs-container">
+							<h2>{this.state.mehs}</h2>
+							<div className="mehs">
+								<button onClick={() => this.setState({mehs: this.state.mehs - 1})}>
+									-1
+								</button>
+								<button onClick={() => this.setState({mehs: this.state.mehs + 1})}>
+									+1
+								</button>
 							</div>
 						</div>
-						<p>{this.props.message}</p>
-						<CommentBox />
+					</div>
+					<div className="message-wrapper">
+						<div className="message">
+							<h2>{this.props.title}</h2>
+							<p>{this.props.message}</p>
+						</div>
+						<CommentBox data={this.props.comments}/>
 					</div>
 				</div>
 			</div>

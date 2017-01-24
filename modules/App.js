@@ -5,8 +5,8 @@ import Nav from './Nav'
 var App = React.createClass({
   render() {
       return (
-          <main className="App" id="page-wrap">
-              <div className="App-header">
+          <main className="app" id="page-wrap">
+              <div className="app-header">
                   <Nav />
                   <div>
                       <strong>meh</strong>&nbsp;- Don't be a meh

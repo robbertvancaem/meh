@@ -1,20 +1,24 @@
-ul[role=nav]{
+ul[role=nav] {
     height: 40px;
-    li{
+
+    li {
         display: inline-block;
         height: 100%;
-        a{
+
+        a {
             width: 100%;
             height: 100%;
             padding: 10px;
-            color: #fff;
+            color: inherit;
             text-decoration: none;
             display: inline-block;
-            &.active{
-                border-bottom: inset 3px rgba(0,0,0,.1);
+
+            &.active {
+                border-bottom: inset 3px rgba(0,0,0,.2);
             }
-            &:hover{
-                border-bottom: inset 3px rgba(0,0,0,.05);
+
+            &:hover {
+                border-bottom: inset 3px rgba(0,0,0,.1);
             }
         }
     }

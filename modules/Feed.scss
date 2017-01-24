@@ -1,6 +1,11 @@
-.Feed{
+.feed {
     .feed-wrapper {
-        max-width: 480px;
-        margin: 0 auto;
+        background-size: 50px;
+
+        .feed-container {
+            max-width: 480px;
+            padding: 20px;
+            margin: 0 auto;
+        }
     }
 }

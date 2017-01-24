@@ -1,72 +1,99 @@
-.Message {
+.message-component {
     padding: 10px 0;
 
     .message-container {
         display: flex;
-    }
 
-    .meta {
-        width: 80px;
-        text-align: center;
+        .message-meta {
+            margin-top: 26px;
+            flex: 0 0 100px;
+            text-align: center;
 
-        .author {
-            font-size: 0.6em;
-            font-weight: bold;
-            margin-bottom: 8px;
-            display: inline-block;
-            color: #2f2e2e;
-        }
-
-        img {
-            max-width: 100%;
-            border-radius: 80px;
-        }
-    }
-
-    .message {
-        padding: 10px;
-        margin: 10px;
-        width: calc(100% - 80px);
-        background: #fff;
-        box-shadow: 0 2px 5px rgba(0,0,0,.2);
-
-        .message-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .message-header .meh {
-            color: red;
-        }
-
-        .message-header h2 {
-            color: #afafaf;
-            font-weight: normal;
-        }
-
-        p {
-            margin-top: 10px;
-        }
-    }
-
-    .mehs-container {
-        text-align: center;
-
-        .mehs {
-            button {
-                background: #dfe3ee;
-                cursor: pointer;
-                outline: none;
-                margin-right: 10px;
-                border: 0;
-                border-radius: 4px;
+            .author {
+                font-size: 0.8em;
+                margin-bottom: 8px;
+                display: inline-block;
                 color: #2f2e2e;
-                transition: all 0.2s ease;
+            }
 
-                &:hover {
-                    background: #bdc3d2;
+            img {
+                max-width: 100%;
+                border-radius: 80px;
+            }
+
+            .mehs-container {
+                text-align: center;
+
+                .mehs {
+                    button {
+                        background: #D96459;
+                        cursor: pointer;
+                        outline: none;
+                        margin-right: 6px;
+                        border: 0;
+                        border-radius: 4px;
+                        padding: 8px;
+                        font-weight: bold;
+                        display: inline-block;
+                        color: #fff;
+                        transition: all 0.2s ease;
+
+                        &:hover {
+                            background: #8C4646;
+                        }
+                    }
                 }
+            }
+        }
+
+        .message-wrapper {
+            margin: 0 0 10px 16px;
+            box-shadow: 0 2px 5px rgba(0,0,0,.2);
+
+            .message {
+                padding: 16px;
+                background: #D96459;
+                color: #fff;
+
+                h2 {
+                    font-weight: normal;
+                }
+
+                p {
+                    margin-top: 10px;
+                }
+            }
+        }
+    }
+    @media all and (max-width:768px) {
+        .message-container {
+            display: block;
+
+            .message-meta {
+                margin-top: 16px;
+                margin-bottom: 10px;
+                text-align: left;
+                position: relative;
+
+                img,
+                span {
+                    max-width: 80px;
+                    display: block;
+                }
+
+                span {
+                    text-align: center;
+                }
+
+                .mehs-container {
+                    position: absolute;
+                    top: 24px;
+                    right: 0;
+                }
+            }
+
+            .message-wrapper {
+                margin: 0 0 10px;
             }
         }
     }

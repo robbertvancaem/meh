@@ -6,8 +6,8 @@ var Nav = React.createClass({
     render(){
         return(
             <ul role="nav">
-                <li><Link to="/" activeClassName="active" onlyActiveOnIndex>Dashboard</Link></li>
-                <li><Link to="/feed" activeClassName="active">Feed</Link></li>
+                <li><Link to="/" activeClassName="active" onlyActiveOnIndex>Feed</Link></li>
+                <li><Link to="/about" activeClassName="active">About</Link></li>
             </ul>
         )
     }

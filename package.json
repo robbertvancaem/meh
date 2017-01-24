@@ -26,7 +26,9 @@
     "react": "^15.4.2",
     "react-burger-menu": "^1.1.6",
     "react-dom": "^15.4.2",
+    "react-mailto": "^0.4.0",
     "react-router": "^3.0.2",
+    "react-select": "^1.0.0-rc.2",
     "remarkable": "^1.7.1"
   },
   "scripts": {
