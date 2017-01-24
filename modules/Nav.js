@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router'
 import './Nav.scss'
 
-export default React.createClass({
+var Nav = React.createClass({
     render(){
         return(
             <ul role="nav">
@@ -12,3 +12,5 @@ export default React.createClass({
         )
     }
 })
+
+export default Nav

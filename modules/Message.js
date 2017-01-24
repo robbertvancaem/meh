@@ -1,8 +1,11 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './Message.scss'
 import CommentBox from './Comments'
 
-class Message extends Component{
+var Message = React.createClass({
+	getInitialState: function(){
+		return {mehs: 0}
+	},
 	render(){
 		return(
 			<div className="Message">
@@ -15,7 +18,7 @@ class Message extends Component{
 						<div className="message-header">
 							<h2>{this.props.title}</h2>
 							<div className="mehs-container">
-								<h2>-{this.props.mehs}</h2>
+								<h2>-{this.state.mehs}</h2>
 								<div className="mehs">
 									<button onClick={() => this.setState({mehs: this.state.mehs + 1})}>
 										Meh
@@ -27,12 +30,12 @@ class Message extends Component{
 							</div>
 						</div>
 						<p>{this.props.message}</p>
-						<CommentBox url="http://localhost:3000/api/comments" pollInterval={20000}/>
+						<CommentBox />
 					</div>
 				</div>
 			</div>
 		)
-	};
-}
+	}
+})
 
 export default Message;

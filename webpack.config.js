@@ -39,6 +39,10 @@ module.exports = {
               'file?hash=sha512&digest=hex&name=[hash].[ext]',
               'image-webpack'
           ]
+      },
+      {
+        test: /\.json$/,
+        loader: 'json-loader'
       }
     ]
   }

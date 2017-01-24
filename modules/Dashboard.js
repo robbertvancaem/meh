@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default React.createClass({
+var Dashboard = React.createClass({
     render(){
         return(
             <div>Dashboard</div>
         )
     }
 })
+
+export default Dashboard

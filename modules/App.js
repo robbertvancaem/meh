@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './App.scss'
 import Nav from './Nav'
 
-class App extends Component {
+var App = React.createClass({
   render() {
       return (
           <main className="App" id="page-wrap">
@@ -16,6 +16,6 @@ class App extends Component {
           </main>
       )
   }
-}
+})
 
 export default App

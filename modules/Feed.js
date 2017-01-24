@@ -1,9 +1,15 @@
-import React, { Component } from 'react';
-import './Feed.scss'
-import './MehForm.scss'
-import Message from './Message'
+import React from 'react'
 import _ from 'lodash'
 
+// Styling
+import './Feed.scss'
+import './MehForm.scss'
+
+// Other modules
+import Message from './Message'
+import messages from './../messages.json'
+
+// Media
 import car from './media/message/car.jpg'
 import coffee from './media/message/coffee.jpg'
 import haircut from './media/message/haircut.jpg'
@@ -13,65 +19,14 @@ import socks from './media/message/socks.jpeg'
 import travel from './media/message/travel.jpg'
 import background from './media/background.jpg'
 
-class Feed extends Component {
-	constructor(){
-		super();
-		this.state = {
-			messages: [
-				{
-					"key": 0,
-					"author":"Douch Ebag",
-					"title" : "My new ride",
-					"image" : car,
-					"message" : "Yo, check out my new fresh #ride #burstinflames #10000milesperhourinasecond",
-					"mehs": 10
-				},{
-					"key": 1,
-					"author":"CoffeeFanatic32",
-					"title" : "Starbucks",
-					"image" : coffee,
-					"message" : "I went to Starbucks, got a #latte #machiato and it was A. Ma. Zing.",
-					"mehs": 20
-				},{
-					"key": 2,
-	        		"author":"Raphael8310",
-	        		"title" : "New Me",
-	        		"image" : haircut,
-	        		"message" : "Just got my hair did done #fresh #haircut",
-					"mehs": 30
-	        	},{
-	        		"key": 3,
-	        		"author":"Chino77",
-	        		"title" : "London <3",
-	        		"image" : london,
-	        		"message" : "I'm standing here on this bridge with my glasses and this was picture #2000 cuz there were tourists on the other ones #fml",
-					"mehs": 40
-	        	},{
-	        		"key": 4,
-	        		"author":"Kayleigh1994",
-	        		"title" : "#peace",
-	        		"image" : mirror,
-	        		"message" : "Make love, not war. And I love Justin Bieber",
-					"mehs": 50
-	        	},{
-	        		"key": 5,
-	        		"author":"TattooGal" ,
-	        		"title" : "YOLOSWAG",
-	        		"image" : socks,
-	        		"message" : "Love my new socks. It's -10 degrees outside. #YOLO",
-					"mehs": 60
-	        	},{
-	        		"key": 6,
-	        		"author":"Fashionista879",
-	        		"title" : "Look mom",
-	        		"image" : travel,
-	        		"message" : "I'm doing the No Pants Dance! Yay!",
-					"mehs": 70
-	        	}
-			]
-		}
-		this.handleSubmit = this.handleSubmit.bind(this)
-	}
+var Feed = React.createClass({
+	getInitialState: function(){
+		return {messages: messages}
+	},
+	getRandomImage: function(){
+		// Todo: make it actually random
+		return car
+	},
 	handleSubmit(event){
 		event.preventDefault();
 
@@ -87,7 +42,7 @@ class Feed extends Component {
 
 		this.setState({ messages: this.state.messages.concat([obj])})
 
-	}
+	},
 	render(){
 		var divStyle = {
             backgroundImage: 'url(' + background + ')'
@@ -109,11 +64,11 @@ class Feed extends Component {
 					<h3>What do you think?</h3>
 				</div>
 				<div className="feed-wrapper">
-	        		{this.state.messages.map(message => <Message key={message.key} author={message.author} title={message.title} image={message.image} message={message.message} mehs={message.mehs}/>)}
+	        		{this.state.messages.map(message => <Message key={message.key} author={message.author} title={message.title} image={this.getRandomImage()} message={message.message} mehs={message.mehs}/>)}
 				</div>
 			</div>
 		)
 	}
-}
+})
 
 export default Feed

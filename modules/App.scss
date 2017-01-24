@@ -1,21 +1,31 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
+@import url( 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
 
-*, *:after, *:before {
+*,
+*:after,
+*:before {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
-html{
+html {
     height: 100%;
 }
 
-body{
+body {
     height: 100%;
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
+    background: #f3f1f1;
 }
 
-h1, h2, h3, h4, h5, h6, p, ul {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
     padding: 0;
     margin: 0;
 }
@@ -26,10 +36,12 @@ h1, h2, h3, h4, h5, h6, p, ul {
     display: flex;
     justify-content: space-between;
     align-content: center;
-    h2{
+
+    h2 {
         display: inline-block;
     }
-    > div{
+
+    > div {
         margin: 8px;
     }
 }

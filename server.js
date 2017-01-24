@@ -27,7 +27,6 @@ app.get('*', (req, res) => {
         } else if (redirect) {
             res.redirect(redirect.pathname + redirect.search)
         } else if (props) {
-            // hey we made it!
             const appHtml = renderToString(<RouterContext {...props}/>)
             res.send(renderPage(appHtml))
         } else {
