@@ -25,6 +25,14 @@ npm start
 
 You can visit the application at [http://localhost:8080](http://localhost:8080)
 
+Also, make sure you run the JSON API server as well, using
+
+```
+npm run api
+```
+
+This makes sure the meh messages (and in the future comments) are saved in the `messages.json` file
+
 ## Building
 To build the application for production, use
 ```

@@ -1,72 +1,107 @@
-[
+{
+  "messages": [
     {
-        "key": 0,
-        "author":"Douch Ebag",
-        "title" : "My new ride",
-        "message" : "Yo, check out my new fresh #ride #burstinflames #10000milesperhourinasecond",
-        "comments": [
-            {
-                "id": 1,
-                "author": "Robbert van Caem",
-                "email": "robbertvancaem@gmail.com",
-                "gender": "male",
-                "message": "That's pretty douchy man"
-            },
-            {
-                "id": 2,
-                "author": "Robbert van Caem",
-                "email": "robbertvancaem@gmail.com",
-                "gender": "male",
-                "message": "Word yo"
-            }
-        ]
-    },{
-        "key": 1,
-        "author":"CoffeeFanatic32",
-        "title" : "Starbucks",
-        "message" : "I went to Starbucks, got a #latte #machiato and it was A. Ma. Zing.",
-        "comments" : [
-            {
-                "id": 3,
-                "author": "Stephanie",
-                "email": "stephaniecraycray@gmail.com",
-                "gender": "female",
-                "message": "OMG I went there the other day and it was like super cray cray. Love u gurl"
-
-            }
-        ]
-    },{
-        "key": 2,
-        "author":"Raphael8310",
-        "title" : "New Me",
-        "message" : "Just got my hair did done #fresh #haircut"
-    },{
-        "key": 3,
-        "author":"Chino77",
-        "title" : "London <3",
-        "message" : "I'm standing here on this bridge with my glasses and this was picture #2000 cuz there were tourists on the other ones #fml"
-    },{
-        "key": 4,
-        "author":"Kayleigh1994",
-        "title" : "#peace",
-        "message" : "Make love, not war. And I love Justin Bieber"
-    },{
-        "key": 5,
-        "author":"TattooGal" ,
-        "title" : "YOLOSWAG",
-        "message" : "Love my new socks. It's -10 degrees outside. #YOLO"
-    },{
-        "key": 6,
-        "author":"Fashionista879",
-        "title" : "Look mom",
-        "message" : "I'm doing the No Pants Dance! Yay!",
-        "comments" : [
-            {
-                "id": 4,
-                "author": "Mom",
-                "email": "mom@gmail.com",
-                "message": "Melissa we need to talk. CALL ME."
-            }
-        ]
+      "id": 0,
+      "author": "Douch Ebag",
+      "title": "My new ride",
+      "message": "Yo, check out my new fresh #ride #burstinflames #10000milesperhourinasecond",
+      "comments": [
+        {
+          "id": 1,
+          "author": "Robbert van Caem",
+          "email": "robbertvancaem@gmail.com",
+          "gender": "male",
+          "message": "That's pretty douchy man"
+        },
+        {
+          "id": 2,
+          "author": "Robbert van Caem",
+          "email": "robbertvancaem@gmail.com",
+          "gender": "male",
+          "message": "Word yo"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "author": "CoffeeFanatic32",
+      "title": "Starbucks",
+      "message": "I went to Starbucks, got a #latte #machiato and it was A. Ma. Zing.",
+      "comments": [
+        {
+          "id": 3,
+          "author": "Stephanie",
+          "email": "stephaniecraycray@gmail.com",
+          "gender": "female",
+          "message": "OMG I went there the other day and it was like super cray cray. Love u gurl"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Raphael8310",
+      "title": "New Me",
+      "message": "Just got my hair did done #fresh #haircut"
+    },
+    {
+      "id": 3,
+      "author": "Chino77",
+      "title": "London <3",
+      "message": "I'm standing here on this bridge with my glasses and this was picture #2000 cuz there were tourists on the other ones #fml"
+    },
+    {
+      "id": 4,
+      "author": "Kayleigh1994",
+      "title": "#peace",
+      "message": "Make love, not war. And I love Justin Bieber"
+    },
+    {
+      "id": 5,
+      "author": "TattooGal",
+      "title": "YOLOSWAG",
+      "message": "Love my new socks. It's -10 degrees outside. #YOLO"
+    },
+    {
+      "id": 6,
+      "author": "Fashionista879",
+      "title": "Look mom",
+      "message": "I'm doing the No Pants Dance! Yay!",
+      "comments": [
+        {
+          "id": 4,
+          "author": "Mom",
+          "email": "mom@gmail.com",
+          "message": "Melissa we need to talk. CALL ME."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "author": "Robbert",
+      "title": "The JSON Server works I guess",
+      "message": "That would be cool!",
+      "comments": []
+    },
+    {
+      "id": 8,
+      "author": "Robbert",
+      "title": "It seems very much to work yes nice",
+      "message": "Whoosahhh",
+      "comments": []
+    },
+    {
+      "id": 9,
+      "author": "Robbert",
+      "title": "Another check",
+      "message": "Never hurts",
+      "comments": []
+    },
+    {
+      "id": 10,
+      "author": "Robbert",
+      "title": "Newest on top",
+      "message": "Also works",
+      "comments": []
     }
-]
+  ]
+}
