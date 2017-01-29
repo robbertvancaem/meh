@@ -7,7 +7,6 @@ import './MehForm.scss'
 
 // Other modules
 import Message from './Message'
-import messages from './../messages.json'
 
 // Media
 import car from './media/message/car.jpg'
@@ -19,13 +18,20 @@ import socks from './media/message/socks.jpeg'
 import travel from './media/message/travel.jpg'
 import background from './media/background.png'
 
-// Store reference to the messages object
-var messages_obj = Object.freeze(messages)
-
 var Feed = React.createClass({
+	getMessagesFromApi: function(){
+		return fetch('http://localhost:3000/messages?_sort=id&_order=DESC')
+			.then((res) => res.json())
+			.then((resJson) => {
+				this.setState({messages: resJson})
+			})
+			.catch((err) => {
+				console.error(err)
+			})
+	},
 	getInitialState: function(){
 		return {
-			messages: messages,
+			messages: {},
 			author: '',
 			title: '',
 			message: ''
@@ -68,28 +74,36 @@ var Feed = React.createClass({
 	handleMessageChange: function(e){
 		this.setState({message: e.target.value})
 	},
+	componentDidMount: function(){
+		this.getMessagesFromApi()
+	},
 	handleSubmit(event){
 		event.preventDefault()
 
 		// Compose new message
-		var obj = [{
-			"key": messages_obj.length,
+		var obj = {
+			"id": this.state.messages.length,
 			"author": event.target.elements[0].value,
 			"title": event.target.elements[1].value,
 			"message": event.target.elements[2].value,
-			"image": coffee
-		}]
+			"comments": []
+		}
 
-		// Add new message to the beginning of the data
-		messages_obj = obj.concat(messages_obj)
+		fetch('http://localhost:3000/messages/', {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json'
+			},
+			body: JSON.stringify(obj)
+		}).then((res) => {
+			this.setState({
+				author: '',
+				title: '',
+				message: ''
+			})
 
-		this.setState({
-			messages: messages_obj,
-			author: '',
-			title: '',
-			message: ''
+			this.getMessagesFromApi()
 		})
-
 	},
 	render(){
 		var divStyle = {
@@ -110,7 +124,17 @@ var Feed = React.createClass({
 				</div>
 				<div className="feed-wrapper" style={divStyle}>
 					<div className="feed-container">
-	        			{this.state.messages.map(message => <Message key={message.key} author={message.author} title={message.title} image={this.getImage(message.key)} message={message.message} comments={message.comments}/>)}
+	        			{
+							Object.keys(this.state.messages).map(key =>
+								<Message
+									key={this.state.messages[key].id}
+									author={this.state.messages[key].author}
+									title={this.state.messages[key].title}
+									image={this.getImage(this.state.messages[key].id)}
+									message={this.state.messages[key].message}
+									comments={this.state.messages[key].comments} />
+								)
+						}
 					</div>
 				</div>
 			</div>

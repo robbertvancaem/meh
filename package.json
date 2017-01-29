@@ -23,6 +23,7 @@
     "compression": "^1.6.2",
     "express": "^4.14.0",
     "if-env": "^1.0.0",
+    "json-server": "^0.9.4",
     "react": "^15.4.2",
     "react-burger-menu": "^1.1.6",
     "react-dom": "^15.4.2",
@@ -32,6 +33,7 @@
     "remarkable": "^1.7.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --inline --content-base public/ --history-api-fallback"
+    "start": "webpack-dev-server --progress --colors --inline --content-base public/ --history-api-fallback",
+    "api" : "json-server --watch messages.json"
   }
 }
